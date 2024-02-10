@@ -1,0 +1,8 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\Данил\Desktop\Project\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(18,5): warning C4273: puts: несовместимое связывание dll
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(358,26):
+  см. предыдущее определение "puts"
+  
+C:\Users\Данил\Desktop\Project\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(36,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Данил\Desktop\Project\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(34,18): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Данил\Desktop\Project\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(40,16): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
